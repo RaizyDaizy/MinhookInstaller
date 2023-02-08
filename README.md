@@ -1,2 +1,2 @@
 # MinhookInstaller
-MinhookInstaller by RaizyDaizy
+MinhookInstaller by RaizyDaizy(Zip Extractor Minhook)
